@@ -11,10 +11,10 @@ export function Hero() {
         {siteConfig.description}
       </p>
       <Link
-        href="/join"
-        className="inline-block bg-primary text-white px-6 py-3 rounded-xl font-semibold hover:bg-secondary transition"
+        href="/dashboard"
+        className="inline-block px-6 py-3 bg-primary text-white rounded-xl font-semibold hover:bg-secondary transition dark:bg-accent dark:text-black rounded-md hover:opacity-90 transition"
       >
-        Join the Waitlist
+        Start Planning
       </Link>
     </section>
   );

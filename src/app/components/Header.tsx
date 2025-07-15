@@ -11,6 +11,7 @@ export function Header() {
       <nav className="flex items-center gap-4">
         <Link href="/about" className="text-secondary hover:underline">About</Link>
         <Link href="/join" className="text-secondary hover:underline">Join</Link>
+        <Link href="/dashboard"className="text-sm font-medium text-muted-foreground hover:text-primary dark:hover:text-white">Dashboard</Link>
         <ThemeToggle />
       </nav>
     </header>

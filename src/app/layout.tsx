@@ -1,9 +1,9 @@
 import './globals.css';
 import { siteConfig } from '@/lib/constants';
-import { ThemeProvider } from '@/components/ThemeProvider'; // We'll create this
+import { ThemeProvider } from '@/app/components/ThemeProvider'; // We'll create this
 import { cn } from '@/lib/utils'; // ShadCN utility classnames
 import type { Metadata } from 'next';
-import { Header} from '@/components/Header';
+import { Header} from '@/app/components/Header';
 export const metadata: Metadata = {
   title: siteConfig.name,
   description: siteConfig.description,

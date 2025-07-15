@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,41 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# EchoPlan
+Making a Podcast planning website.
+# EchoPlan 🎙️
+
+A clean, podcast-native planning tool built for solo podcasters and student creators.
+
+### 🎯 What Is It?
+
+EchoPlan helps creators:
+
+- ✍️ Plan and organize episodes
+- 🧾 Write scripts with timestamps
+- ⏰ Set reminders and deadlines
+- 📊 Track progress from idea → published
+
+Built with:
+- [Next.js 15](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [ShadCN UI](https://ui.shadcn.com/)
+- Custom Dark Mode Toggle
+- Fully themeable with CSS variables
+
+---
+
+- Install dependencies 
+  npm install
+
+- Run dev server
+  nom run dev
+
+### 🚀 Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/EchoPlan.git
+   cd EchoPlan
+>>>>>>> 876d30a635fa51ae83d970712733f1c2d6aeeaaa
